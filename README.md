@@ -1,2 +1,2 @@
 # Algoritmos
-Curso de algoritmos y estrucutura de datos (CC232) UNI
+in this repository you can access to all the algorithms made in class
