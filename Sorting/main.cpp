@@ -18,6 +18,6 @@ int main() {
   int *array = generateArray(10);
   printArray(array, 10);
   Sort *sort = new Sort();
-  sort->bubbleSort(array, 10);
+  sort->shellSort(array, 10);
   printArray(array, 10);
 }
