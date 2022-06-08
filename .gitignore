@@ -34,3 +34,5 @@
 *.app
 main
 
+#rubbish files
+tempCodeRunnerFile.cpp
